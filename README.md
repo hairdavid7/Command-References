@@ -1,16 +1,16 @@
 ## Command-References
 
-curl
-wget
-cf push
+curl<br>
+wget<br>
+cf push<br>
 
 ## Git Commands
 
-git init 
-git status
-git add
-git diff
-git commit -m
-git log
+git init<br> 
+git status<br>
+git add<br>
+git diff<br>
+git commit -m<br>
+git log<br>
 
 
